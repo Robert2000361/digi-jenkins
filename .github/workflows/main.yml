@@ -34,7 +34,6 @@ jobs:
 
         node-version: '18'
 
-    # STEP 3: Run commands
 
     - run: npm install
 
